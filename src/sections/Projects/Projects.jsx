@@ -12,7 +12,7 @@ function Projects() {
         <div className={styles.projectsContainer}>
             <ProjectCard src={viberr} 
             link='https://github.com/kharpaw/reactproject'
-            h3="viberr"
+            h3="Docs"
             p="Docs App"
             />
 
