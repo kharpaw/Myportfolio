@@ -54,7 +54,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>I am a software developer student. 
-        At the moment I am learning modern javascript
+        At the moment I am learning modern javascript. I have a solid understanding of WordPress, including theme customization, plugin integration, and website optimization.
         </p>
         <a href={CV} download>
             <button className='hover'>
