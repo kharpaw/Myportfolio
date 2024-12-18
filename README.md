@@ -1,8 +1,18 @@
-# React + Vite
+# 🌟 Pawan Kharel Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👋 Hi there! I'm **Pawan Kharel**, a passionate **software developer in training** currently studying at **Stadin Ammattiopisto**. I specialize in **web design**, **back-end development**, and have a **strong understanding of WordPress**, with a keen interest in mastering **modern JavaScript** and creating innovative, user-centric solutions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 About Me
+
+- 🔭 Currently learning: **Modern JavaScript**, **Back-end Development**, and **Web Design**.  
+- 🎓 Education: Pursuing a degree in **Software Development**.  
+- 💻 Skills:  
+  - **Languages**: JavaScript, HTML, CSS, PHP, MySQL
+  - **Tools & Frameworks**: Node.js, React, WordPress, Git/GitHub  
+  - **Concepts**: Responsive Design, API Integration, Version Control  
+
+- 🌱 Next steps: Diving deeper into **React.js**, **Node.js**, and exploring **Cloud Computing**.
+
+---
